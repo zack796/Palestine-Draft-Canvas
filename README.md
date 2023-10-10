@@ -1,7 +1,7 @@
 # Palestine-Draft-Canvas
 Draft Obsidian canvas of Israel Palestine history
 
-The ZIP enclosed contains multiple pasted images and the Canvas document.
+The files enclosed contains multiple pasted images and the Canvas document.
 
 ## Import instructions
 
