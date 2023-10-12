@@ -7,6 +7,7 @@ The files enclosed contains multiple pasted images and the Canvas document.
 
 ## Import instructions
 
+- Download [Obsidian](https://obsidian.md/) if you don't have it already! This is required!
 - Download the files from this repository
 - Create an Obsidian vault if you do not have one already
 - place the .canvas file and images folder into your Obsidian vault
