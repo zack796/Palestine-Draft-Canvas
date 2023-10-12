@@ -21,8 +21,7 @@ The files enclosed contains multiple pasted images and the Canvas document.
 
 5. Initialize the images and cards by zooming into the Canvas until the text and pages appear.
 
-Need help? Contact:
-.xaz on Discord
+# Need help? Contact: .xaz on Discord
 
 ---
 
