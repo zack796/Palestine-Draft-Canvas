@@ -24,7 +24,7 @@ The files enclosed contains multiple pasted images and the Canvas document.
 # Need help? Contact: .xaz on Discord
 
 ## TODO List
-### This is a list of things I would like added to the canvas. If you have suggestions on what to add to the canvas, [Create and issue](https://github.com/zack796/Palestine-Draft-Canvas/issues)
+### This is a list of things I would like added to the canvas. If you have suggestions on what to add to the canvas, [Create an issue](https://github.com/zack796/Palestine-Draft-Canvas/issues)
 
 - Rafah Crossing
 - 2000 - Today
